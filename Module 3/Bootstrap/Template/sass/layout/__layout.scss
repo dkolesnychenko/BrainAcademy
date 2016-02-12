@@ -1,0 +1,15 @@
+html{
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body{
+    font: 14px/1.2 Arimo, Arial, Verdana, sans-serif;
+}
+
+html, body{
+    height: 100%;
+}
+
+@import "header";
+@import "content";
